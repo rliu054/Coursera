@@ -1,7 +1,13 @@
 *.DS_Store
 token.mat
 
+# Tutorials
 *.pdf
+
+# Test data
+*.txt
+
+lib/
 
 # Windows default autosave extension
 *.asv
