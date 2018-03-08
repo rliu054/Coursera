@@ -164,7 +164,7 @@ pause;
 %  lambda to see how the fit and learning curve change.
 %
 
-lambda = 0;
+lambda =1;
 [theta] = trainLinearReg(X_poly, y, lambda);
 
 % Plot training data and fit
@@ -195,7 +195,7 @@ end
 fprintf('Program paused. Press enter to continue.\n');
 pause;
 
-%% =========== Part 8: Validation for Selecting Lambda =============
+%  =========== Part 8: Validation for Selecting Lambda =============
 %  You will now implement validationCurve to test various values of 
 %  lambda on a validation set. You will then use this to select the
 %  "best" lambda value.
