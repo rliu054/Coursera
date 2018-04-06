@@ -3,12 +3,6 @@
 # Matlab files
 *.mat
 
-# Tutorials
-*.pdf
-
-# Test data
-*.txt
-
 lib/
 
 # Windows default autosave extension
