@@ -1,2 +1,3 @@
-# Machine learning course exercises
-* Andrew Ng's Machine Learning course
+# Machine learning
+* Andrew Ng's Coursera Machine Learning course
+* Hands-On Machine Learning with Scikit-Learn and TensorFlow 
